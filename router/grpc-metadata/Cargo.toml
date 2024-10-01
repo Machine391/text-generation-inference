@@ -5,6 +5,6 @@ edition = "2021"
 
 [dependencies]
 opentelemetry = "^0.20"
-tonic = "^0.10"
+tonic = "^0.12"
 tracing = "^0.1"
 tracing-opentelemetry = "^0.21"
